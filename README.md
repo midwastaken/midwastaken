@@ -9,3 +9,5 @@ Technologies & tools that I use:
 ![Code](https://img.shields.io/badge/Code-Deno-informational?style=flat&logo=Code&logoColor=white&color=black) 
 ![Code](https://img.shields.io/badge/Code-GoLang%20(basics)-informational?style=flat&logo=Code&logoColor=white&color=black)
 ![Code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Code&logoColor=white&color=black)
+
+![Last.FM stats](https://lastfm-recently-played.vercel.app/api?user=sadorishere")
